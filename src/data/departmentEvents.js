@@ -82,7 +82,7 @@ export const departmentEvents = {
       time: "10:00 AM - 3:00 PM",
       venue: "R - 309",
       teamSize: "Team of 2",
-      coordinator: "Mrs. B. Sridevi",
+      coordinator: "Mr. M. Chanti Babu",
       contact: "9876543210"
     },
     {
@@ -91,7 +91,7 @@ export const departmentEvents = {
       time: "10:00 AM - 3:00 PM",
       venue: "R - 305",
       teamSize: "Individual",
-      coordinator: "Mr. K. Srinivas",
+      coordinator: "Mr. K. Rajashekhar",
       contact: "9876543210"
     },
     {
